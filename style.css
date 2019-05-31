@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: cursive; 
+}
+
+.fl{
+    float: left;
+    font-size:500 px;
+}
+.fr{
+    float:right; 
+}
+.biginput{
+    padding: 5px;
+    border-radius: 7px;
+}
+#header{
+    border: 0px solid;
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    color: #FFFFFF;
+}
+#midcontent{
+    background-color: rgba(247, 0, 57, 0.21);border: 0px dashed;
+    height: 700px;
+}
+#headertitle{
+    font-size: 48px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+#headerlogin{
+    padding-top: 20px;
+    font-size: 12px;
+    padding-right: 100px;
+}
